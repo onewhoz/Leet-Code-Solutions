@@ -1,3 +1,5 @@
+// Two pointers, O(n) time & O(1) space
+
 public class Solution {
     public bool IsPalindrome(string s) {
         int end = s.Length - 1;
